@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_offline/flutter_offline.dart';
-import 'package:omar_ahmed_tut/presentation/screens/offline_screen.dart';
+import '../../presentation/screens/offline_screen.dart';
 import '../../presentation/widgets/latest_news_container.dart';
 import '../../bussiness_logic/cubit/articles_cubit.dart';
 import '../../data/models/article.dart';
