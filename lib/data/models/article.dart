@@ -1,4 +1,4 @@
-import 'package:omar_ahmed_tut/data/models/source.dart';
+import '../../data/models/source.dart';
 
 class Article {
   Source? source;
